@@ -1,0 +1,8 @@
+{
+    "domain": "climate_temperature",
+    "name": "Climate Temperature",
+    "documentation": "https://github.com/elad-bar/ha-climate-temperature/blob/master/README.md",
+    "dependencies": ["climate"],
+    "codeowners": ["@elad-bar"],
+    "requirements": []
+  }

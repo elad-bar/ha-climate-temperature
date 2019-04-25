@@ -1,0 +1,15 @@
+{
+    "climate_temperature": {
+        "version": "1.0.1",
+        "local_location": "/custom_components/climate_temperature/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/elad-bar/ha-climate-temperature/master/custom_components/climate_temperature/__init__.py",
+        "visit_repo": "https://github.com/elad-bar/ha-climate-temperature",
+        "changelog": "https://github.com/elad-bar/ha-climate-temperature/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/elad-bar/ha-climate-temperature/master/custom_components/climate_temperature/const.py",
+            "https://raw.githubusercontent.com/elad-bar/ha-climate-temperature/master/custom_components/climate_temperature/climate_temperature_data.py",
+            "https://raw.githubusercontent.com/elad-bar/ha-climate-temperature/master/custom_components/climate_temperature/services.yaml",
+            "https://raw.githubusercontent.com/elad-bar/ha-climate-temperature/master/custom_components/climate_temperature/manifest.json"
+        ]
+    }
+}
